@@ -1,1 +1,3 @@
-#python
+## Disclaimer
+
+This work is a part of the CS50P course offered by [insert institution name]. It is meant for educational purposes. If you are currently enrolled in the course, I encourage you to maintain academic honesty and avoid plagiarism. This code should serve as a reference or guide to help you in your own learning and understanding. It is important to develop your own solutions and not submit this work as your own. By using or referring to this code, you agree to abide by the academic integrity policies of the course and institution. Plagiarism or any form of cheating is strongly discouraged and can lead to serious consequences. Please use this code responsibly and ethically.
