@@ -11,9 +11,11 @@ def decimal_to_binary(number):
     return binary
 
 # Prompting the user for input
-try:
-    number_to_convert = int(input("Decimal: "))
-    binary_result = decimal_to_binary(number_to_convert)
-    print(f"Binary: {binary_result}")
-except ValueError:
-    print("Invalid input. Please enter a valid decimal number.")
+while True:
+    try:
+        number_to_convert = int(input("Decimal: "))
+        binary_result = decimal_to_binary(number_to_convert)
+        print(f"Binary: {binary_result}")
+        break
+    except ValueError:
+        None
