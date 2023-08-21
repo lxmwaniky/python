@@ -7,7 +7,7 @@ def click():
     print(count)
 
 window = Tk()
-
+window.title("Button")
 button = Button(window, text="Click me", command=click, font=("Comic Sans",30))
 button.pack()
 
